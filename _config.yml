@@ -4,7 +4,7 @@
 
 # Site
 title: hungjie's note 
-subtitle: 
+subtitle: 學習、玩樂、分享
 description:
 author: hungjie19
 email: 
@@ -93,6 +93,13 @@ livereload:
 
 sitemap:
     path: sitemap.xml
+
+# hexo backup plugin for Hexo,backup to github
+backup:
+    type: git
+    repository:
+       github: git@github.com:hungjie19/hungjie19.git,hexoGit
+       # gitcafe: git@github.com:hungjie19/hungjie19.git,hexoGit
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
