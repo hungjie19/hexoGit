@@ -1,6 +1,8 @@
 title: Hexo livereload
 date: 2015-05-14 23:24:06
-tags: Hexo
+tags: 
+- Hexo
+- Live Reload
 ---
 
 # Live Reload
