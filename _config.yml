@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hungjie's note 
-subtitle: 學習、玩樂、分享
-description:
+title: hungjie's notes 
+subtitle: 學習、紀錄、分享
+description: Junlor front-end 學習筆記簿
 author: hungjie19
 email: 
 language: zh-TW
@@ -27,7 +27,7 @@ public_dir: public
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: post
+default_layout: my #post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
